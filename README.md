@@ -9,7 +9,7 @@
 #### Topics:
 
 - [2D without noise](#First-lets-draw-samples-from-the-model-without-noise)
-- [2D with gaussian noise](#Now-let's-add-gaussian-noise-with-mean-of-0-and-variance-of-1)
+- [2D with gaussian noise](#Adding-gaussian-noise-with-mean-of-0-and-variance-of-1)
 - [3D without noise](#2d-is-cool-but-higher-dimensions-are-better)
 - [3D with gaussian noise](#Now-add-gaussian-noise-with-mean-of-0-and-variance-of-1)
 
@@ -19,7 +19,7 @@
 ![](./img/download-1.png)
 ![](./img/download-2.png)
 
-## Now let's add gaussian noise with mean of 0 and variance of 1
+## Adding gaussian noise with mean of 0 and variance of 1
 
 ![](./img/download-3.png)
 ![](./img/download-4.png)
