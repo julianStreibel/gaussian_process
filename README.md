@@ -2,7 +2,7 @@
 
 #### What is a Gaussian Process:
 
-- **Simple explenation**: A Gaussian process is a probability distribution over possible functions that fit a set of points.
+- **Simple explenation**: A gaussian process is a probability distribution over possible functions that fit a set of points.
 
 - **Deeper understanding**: [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/RW.pdf) gives detailed insights.
 
